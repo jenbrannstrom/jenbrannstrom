@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m an eternal student, currently learning:
+
+[Vision Kit](https://aiyprojects.withgoogle.com/vision) | 
+[LLama](https://github.com/facebookresearch/llama) | 
+[Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html) | 
 <!--
 **jenbrannstrom/jenbrannstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
